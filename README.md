@@ -1,5 +1,3 @@
-Abaixo segue um exemplo de README aprimorado, que inclui uma visão geral do conceito, a arquitetura utilizada e detalhes sobre as camadas e tecnologias empregadas no VidaConecta.
-
 ---
 
 # VidaConecta
